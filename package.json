@@ -1,5 +1,5 @@
 {
-  "name": "billing",
+  "name": "referrals",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "node dist/index.js",
-    "dev": "nodemon src/index.ts",
+    "dev": "node src/index.ts",
     "build": "tsc",
     "test": "jest"
   },
